@@ -25,13 +25,13 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 
 
-- :mailbox:How to reach me: https://vk.com/daniil.cheban
+
 - ---
 ### :hammer_and_wrench: Languages and Tools :
 
 - C#
 - C++
-- SQLite
+
 
 
 - ---
